@@ -80,10 +80,7 @@ function nextQuestion() {
       incorret++;
     }
 
-    document.getElementById(
-      "result"
-    ).innerHTML = `doğru sayınız : ${correct} <br>
-     yalnış sayınız : ${incorret}`;
+    document.getElementById("result").innerHTML = `doğru sayınız : ${correct} <br> yalnış sayınız : ${incorret}`;
 
     let isFinish = quiz.isFinish(); // Sorular bitti mi ?
     if (isFinish) {
