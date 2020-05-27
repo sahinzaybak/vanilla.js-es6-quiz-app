@@ -1,5 +1,5 @@
 # Vanilla.js & ES6 Quiz-uygulaması
-Vanilla javascript ve ES6 kullanarak yapmış olduğum quiz uygulaması
+Vanilla javascript ve ES6 + kullanarak yapmış olduğum quiz uygulaması
 
 
 <br>
